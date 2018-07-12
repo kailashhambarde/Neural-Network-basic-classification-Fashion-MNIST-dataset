@@ -1,0 +1,2 @@
+# Neural-Network-basic-classification-Fashion-MNIST-dataset
+n this guide, we will train a neural network model to classify images of clothing, like sneakers and shirts. It's fine if you don't understand all the details, this is a fast-paced overview of a complete TensorFlow program with the details explained as we go.  This guide uses tf.keras, a high-level API to build and train models in TensorFlow.
